@@ -1,0 +1,2 @@
+# Qshore
+devops
